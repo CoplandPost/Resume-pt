@@ -42,6 +42,10 @@ ul {
     padding: 0;
 }
 
+dd {
+    margin-inline-start: 30px;
+}
+
 dt {
     font-weight: bold;
 }
